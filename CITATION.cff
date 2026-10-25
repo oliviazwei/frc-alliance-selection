@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "Replication package for: Expected Points Added and Alliance Selection in the FIRST Robotics Competition"
+type: software
+authors:
+  - family-names: Wei
+    given-names: Olivia
+license: MIT
+keywords:
+  - FIRST Robotics Competition
+  - alliance selection
+  - Expected Points Added
+  - discrete choice
+  - conditional logit
+preferred-citation:
+  type: unpublished
+  title: "Expected Points Added and Alliance Selection in the FIRST Robotics Competition"
+  authors:
+    - family-names: Wei
+      given-names: Olivia
+  year: 2026
+  notes: "Revised manuscript."
